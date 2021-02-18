@@ -1,0 +1,22 @@
+{
+    "name": "Source Quest 1",
+    "version": "1.0.0",
+    "description": "Rouge like game api! <br /> Base url = \"https://sq.shadygoat.eu/api\"",
+    "title": "Source Quest || Docs",
+    "url" : "",
+    "sampleUrl": "https://sq.shadygoat.eu/api",
+    "template": {
+      "forceLanguage": false,
+      "withCompare": false,
+      "aloneDisplay": false,
+      "withGenerator": false
+    },
+    "order": [
+      "Introduction",
+      "Types",
+      "User",
+      "Map",
+      "Inventory",
+      "Monster"
+    ]
+}

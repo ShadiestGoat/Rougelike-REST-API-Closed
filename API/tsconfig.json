@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "target": "ES6",
+        "resolveJsonModule": true,
+        "outDir": "./dist",
+        "checkJs": true,
+        "module": "CommonJS",
+    },
+    "typeRoots": [
+        "./src/node_modules/@types",
+        "./src/expressRequestTypes"
+    ],
+    "include": [
+        "./src/expressRequestTypes/*",
+        "./src/*",
+        "./src/config/config.json"
+    ],
+}

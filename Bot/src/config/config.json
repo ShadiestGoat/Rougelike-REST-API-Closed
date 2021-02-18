@@ -1,0 +1,11 @@
+{
+    "token": "token",
+    "prefix": "!",
+    "embed": {
+        "timestamp": true,
+        "defaultcolor": "#5151a4",
+        "success_color": "#5151a4",
+        "bad_color": "#E50000"
+    },
+    "db": "dburl"
+}
